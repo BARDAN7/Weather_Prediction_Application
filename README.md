@@ -4,11 +4,11 @@ A machine-learning based weather forecasting tool using LightGBM (LGBM Classifie
 
 # 🚀  Features
 
- Accurate Weather Prediction using LGBM Classifier
- Streamlit Web UI for user-friendly interaction
- Real-time Input Fields for weather variables
- Fast and lightweight model suitable for deployment
- Supports both real-time and manual data entry
+ Accurate Weather Prediction using LGBM Classifier<br>
+ Streamlit Web UI for user-friendly interaction<br>
+ Real-time Input Fields for weather variables<br>
+ Fast and lightweight model suitable for deployment<br>
+ Supports both real-time and manual data entry<br>
  Displays prediction confidence (optional)
  
  # Input Parameters
