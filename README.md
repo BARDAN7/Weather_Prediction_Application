@@ -31,9 +31,9 @@ Algorithm: LightGBM Classifier (LGBM)
 
 Reason for using:
 
-Fast training and prediction
-Handles categorical & numerical data well
-Excellent accuracy with low computational cost
+Fast training and prediction<br>
+Handles categorical & numerical data well<br>
+Excellent accuracy with low computational cost<br>
 Trained on labeled weather data with feature encoding for season, location, and cloud cover.
 
 # 📦 Installation
@@ -41,19 +41,19 @@ pip install -r requirements.txt
 
 Typical requirements:
 
-lightgbm
-streamlit
-pandas
-numpy
-scikit-learn
+lightgbm<br>
+streamlit<br>
+pandas<br>
+numpy<br>
+scikit-learn<br>
 
 ▶️ Run the Application
-streamlit run app.py
+streamlit run app.py<br>
 This will open the interactive prediction dashboard in your browser.
 
 # 📚 How It Works
 
-User enters weather-related parameters into Streamlit.
-System preprocesses input and converts categories into numeric codes.
-LGBM Classifier predicts the weather condition.
+User enters weather-related parameters into Streamlit.<br>
+System preprocesses input and converts categories into numeric codes.<br>
+LGBM Classifier predicts the weather condition.<br>
 Streamlit displays the prediction on-screen.
