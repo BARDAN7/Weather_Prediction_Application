@@ -47,7 +47,7 @@ pandas<br>
 numpy<br>
 scikit-learn<br>
 
-▶️ Run the Application
+# ▶️ Run the Application
 streamlit run app.py<br>
 This will open the interactive prediction dashboard in your browser.
 
